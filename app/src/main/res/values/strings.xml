@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EduLounge</string>
+    <string name="welcome">Welcome to EduLounge. A would be developer learning hub. Join Our community as a.... </string>
+    <string name="student">Student </string>
+    <string name="tutor">Tutor </string>
+    <string name="account">Dont have an account?  </string>
+    <string name="signup">SignUp </string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="next">Next</string>
+    <string name="number">Phone Number</string>
+    <string name="specialty">Specialty</string>
+    <string name="country">Country</string>
+    <string name="finish">Finish</string>
+
+</resources>

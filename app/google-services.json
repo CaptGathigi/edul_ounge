@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "887069267927",
+    "firebase_url": "https://android-edulounge.firebaseio.com",
+    "project_id": "android-edulounge",
+    "storage_bucket": "android-edulounge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887069267927:android:f2a6cfaf2c3e1437",
+        "android_client_info": {
+          "package_name": "com.example.captg.edulounge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887069267927-uh2aaflg6hmupdffkmienf5glckuga77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.captg.edulounge",
+            "certificate_hash": "98a8a5955906dac0d396904793a4ba8e5e92b863"
+          }
+        },
+        {
+          "client_id": "887069267927-9cgeksfqtja0n5lt77e0b64166vuocna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyiZcfdYOEyTcSrQDvzW4CeJmoHCy9SQY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887069267927-9cgeksfqtja0n5lt77e0b64166vuocna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
